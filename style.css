@@ -63,15 +63,15 @@ body{
     flex-direction: column;
 }
 #dots{
-    font-size: 5px;
+    font-size: 5rem;
     transform: translateY(-3px);
     color: gray;
 }
 #minutes{
-    font-size: 5px;
+    font-size: 5rem;
     font-weight: 400;
     margin-left: 10px;
-    transform: translateY(-10px);
+    transform: translateY(10px);
     background: -webkit-linear-gradient(90deg,orchid,white);
     -webkit-text-fill-color: transparent ;
     -webkit-background-clip: text;
